@@ -9,5 +9,5 @@ En este curso vemos de todo
 - trucos muy locos del profesor 
 - creado por el increible platzi team 
 - incluye ejemplos en windows, linux y mac 
-
+- disponible para todas las edades 
 
