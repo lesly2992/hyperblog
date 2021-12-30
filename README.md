@@ -7,5 +7,6 @@ En este curso vemos de todo
 - todos los comandos de git 
 - las multiples personalidades de freddy
 - trucos muy locos del profesor 
+- creado por el increible platzi team 
 
 
