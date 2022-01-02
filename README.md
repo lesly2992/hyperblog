@@ -8,5 +8,10 @@ En este curso vemos de todo
 - las multiples personalidades de freddy
 - trucos muy locos del profesor 
 - creado por el increible platzi team 
+<<<<<<< HEAD
 
+=======
+- incluye ejemplos en windows, linux y mac 
+- disponible para todas las edades 
+>>>>>>> readme-mejorado
 
